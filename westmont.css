@@ -7,7 +7,7 @@ h1 { position: relative; font-family: 'Zen Loop'; font-style: cursive; font-size
   padding: 0;
   text-align: center;
   background: transparent;
-  background: linear-gradient(90deg, #05d0eb 0%, transparent 33%, transparent 66%, #05d0eb 100%);
+  background: linear-gradient(90deg, #05d0eb 0%, transparent 33%, transparent 66%, #05d0eb 100%)!important;
   height: 6px;
   font-weight: 400;
   display: flex;
