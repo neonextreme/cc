@@ -16,7 +16,7 @@ h1 { position: relative; font-family: 'Zen Loop'; font-style: cursive; font-size
   justify-content: center;
   border-radius: 1rem; gap: 1rem; }
 
-.progress {  background: #415057; }
+.progress {  background: #415057!important; }
 
 
 h1::before { content: " ⚔️ " }
